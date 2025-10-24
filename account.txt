@@ -1,0 +1,22 @@
+run
+backend 
+php -S localhost:8000
+frontend
+npm start
+
+user:
+222@gmail.com
+123456
+
+technician
+111@gmail.com
+123456
+
+admin
+admin@example.com
+123456
+zalopay
+Số thẻ	4111111111111111
+Tên	NGUYEN VAN A
+Ngày hết hạn	01/26
+Mã CVV	123
